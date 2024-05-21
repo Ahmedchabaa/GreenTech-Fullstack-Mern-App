@@ -1,0 +1,46 @@
+#cltt {
+    background: Orgb(0, 101, 219);
+    background: linear-gradient(
+      90deg,
+      rgb(205, 201, 201) 50%,
+      rgb(150, 223, 212) 60%
+    );
+    min-height: 700px;
+   
+  }
+  .ctn{
+   
+    display: flex;
+    flex-direction: row !important;
+    justify-content: center;
+    justify-content: space-between;
+  }
+  .ctnn{ 
+    /* display: flex; */
+    width: 50%;
+
+  
+  }
+
+  .ctnn1{
+  
+   
+    width: 50%;
+   
+  }
+  .avatar{
+    width: 50%;
+  }
+  .name{
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 1%;
+  }
+  .avat{
+   text-align: justify;
+    width: 100% !important;
+    height: 5% !important;
+    
+  }

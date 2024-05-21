@@ -1,0 +1,11 @@
+.plant{
+    width: 400px;
+    height: 400px;
+}
+.why{
+   padding-top: 10%;
+}
+.adv{
+    display: flex;
+    justify-content: space-between;
+}

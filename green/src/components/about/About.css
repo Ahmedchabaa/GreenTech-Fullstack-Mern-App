@@ -1,0 +1,26 @@
+
+.p1{
+    width: 150px;
+    display: flex;
+ align-self: center;
+ margin-left: 30%;
+    
+}
+.p2{
+    width: 145px;
+    margin-left: 30%;
+}
+.p3{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+.imggg{
+    width: 100px;
+}
+.imgg1{
+    width: 180px;
+}
+.imggg2{
+width: 105px;
+}

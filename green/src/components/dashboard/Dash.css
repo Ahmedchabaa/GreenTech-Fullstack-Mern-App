@@ -1,0 +1,47 @@
+.main-sidebar{
+    margin-top: 66px;
+    height: 900px !important;
+  text-align: left;
+}
+
+.aa{
+    display: flex;
+   
+    position: relative;
+    justify-content: center;
+width: 130%;
+
+}
+.txtbr{
+    display: flex;
+    justify-content: center;
+}
+.cdh{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    align-self: center;
+    width: 60%;
+}
+.cdb{
+    display:flex ;
+    justify-content: space-between;
+    align-self: center;
+    width: 60%;
+}
+.cdf{
+    display: flex;
+    align-self: center;
+    width: 60%;
+}
+.bad{
+    display: flex;
+    justify-content: center;
+   
+}
+.baddd{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    padding-left: 16%;
+}

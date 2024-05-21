@@ -1,0 +1,31 @@
+#Create {
+    background: Orgb(0, 101, 219);
+    background: linear-gradient(
+      150deg,
+      rgb(239, 200, 177) 50%,
+      rgba(102, 88, 85, 0.799) 70%
+    );
+    min-height: 500px !important;
+    
+  }
+  .back{
+    background-color: rgba(255, 255, 255, 0.609);
+}
+
+.blue{
+    margin-top: 20px;
+}
+.myimage::file-selector-button{
+    cursor: pointer;
+    width: 100%;
+    z-index: 2;
+    height: 5vh;
+    border: none;
+    margin: 0%;
+    font: 400 1vmax cursive;
+    transition: all 0.5s;
+    padding: 0 1vmax;
+    color: white;
+    background-color: rgb(4, 128, 252);
+    object-fit: cover;
+  }

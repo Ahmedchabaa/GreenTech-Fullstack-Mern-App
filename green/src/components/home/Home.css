@@ -1,0 +1,15 @@
+
+.sakura {
+
+    background: url("https://smaaart.fr/blog/wp-content/uploads/2019/11/recyclage-planete.jpg");
+    min-height: 590px;
+    background-repeat: no-repeat;
+    background-size: cover;
+   object-fit: contain;
+   margin-top: -3%;
+  }
+.moon{
+    margin-top: 10%;
+    font-size: 100px;
+}
+
